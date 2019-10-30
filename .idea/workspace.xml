@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e2c31a44-cc2e-4617-9244-7bdd9044bfea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/LargestRectangleInHistogram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/LargestRectangleInHistogram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ProgramCreek/Stack/LargestRectangleInHistogramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ProgramCreek/Stack/LargestRectangleInHistogramTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -72,55 +74,13 @@
     </system>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.45209002">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/TrappingRainWater.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="379">
-                  <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/TrappingRainWaterTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/CandyTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -135,8 +95,11 @@
         <option value="$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/CandyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/Candy.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/TrappingRainWater.java" />
         <option value="$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/TrappingRainWaterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/TrappingRainWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/MaximalRectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ProgramCreek/Stack/LargestRectangleInHistogramTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/LargestRectangleInHistogram.java" />
       </list>
     </option>
   </component>
@@ -144,7 +107,7 @@
     <option name="x" value="-266" />
     <option name="y" value="-1057" />
     <option name="width" value="1920" />
-    <option name="height" value="977" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -155,6 +118,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,7 +164,7 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="ProgramCreek" type="462c0819:PsiDirectoryNode" />
-              <item name="Array_String" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DataStructuresAlgorithms" type="b2602c69:ProjectViewProjectNode" />
@@ -221,24 +185,42 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramCreek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramCreek" type="462c0819:PsiDirectoryNode" />
               <item name="Array_String" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DataStructuresAlgorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DataStructuresAlgorithms" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ProgramCreek" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/ProgramCreek" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.gradle.running" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ProgramCreek.Stack" />
       <recent name="ProgramCreek.Array_String" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -257,38 +239,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrappingRainWaterTest">
-    <configuration name="CandyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;ProgramCreek.Array_String.CandyTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="CandyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LargestRectangleInHistogramTest.largestRectangleArea1">
+    <configuration name="LargestRectangleInHistogramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="DataStructuresAlgorithms.test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgramCreek.Array_String.*" />
+          <option name="PATTERN" value="ProgramCreek.Stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ProgramCreek.Array_String" />
-      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Array_String.CandyTest" />
+      <option name="PACKAGE_NAME" value="ProgramCreek.Stack" />
+      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Stack.LargestRectangleInHistogramTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleInHistogramTest.largestRectangleArea1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramCreek.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgramCreek.Stack" />
+      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Stack.LargestRectangleInHistogramTest" />
+      <option name="METHOD_NAME" value="largestRectangleArea1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleInHistogramTest.largestRectangleArea3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramCreek.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgramCreek.Stack" />
+      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Stack.LargestRectangleInHistogramTest" />
+      <option name="METHOD_NAME" value="largestRectangleArea3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LargestRectangleInHistogramTest.largestRectangleArea4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataStructuresAlgorithms.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramCreek.Stack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgramCreek.Stack" />
+      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Stack.LargestRectangleInHistogramTest" />
+      <option name="METHOD_NAME" value="largestRectangleArea4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -308,34 +318,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrappingRainWaterTest.testTrappingWater1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="DataStructuresAlgorithms.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ProgramCreek.Array_String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ProgramCreek.Array_String" />
-      <option name="MAIN_CLASS_NAME" value="ProgramCreek.Array_String.TrappingRainWaterTest" />
-      <option name="METHOD_NAME" value="testTrappingWater1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Gradle.CandyTest" />
-      <item itemvalue="JUnit.CandyTest" />
       <item itemvalue="JUnit.TrappingRainWaterTest" />
-      <item itemvalue="JUnit.TrappingRainWaterTest.testTrappingWater1" />
+      <item itemvalue="JUnit.LargestRectangleInHistogramTest" />
+      <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea1" />
+      <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea3" />
+      <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea1" />
+        <item itemvalue="JUnit.LargestRectangleInHistogramTest" />
+        <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea4" />
+        <item itemvalue="JUnit.LargestRectangleInHistogramTest.largestRectangleArea3" />
         <item itemvalue="JUnit.TrappingRainWaterTest" />
-        <item itemvalue="JUnit.TrappingRainWaterTest.testTrappingWater1" />
-        <item itemvalue="JUnit.CandyTest" />
-        <item itemvalue="Gradle.CandyTest" />
       </list>
     </recent_temporary>
   </component>
@@ -353,42 +349,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CandyTest - 2019.10.28 at 23h 16m 38s.xml">
-      <configuration name="CandyTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea1 - 2019.10.30 at 22h 27m 14s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CandyTest - 2019.10.28 at 23h 26m 27s.xml">
-      <configuration name="CandyTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea3 - 2019.10.30 at 22h 41m 33s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CandyTest - 2019.10.28 at 23h 27m 03s.xml">
-      <configuration name="CandyTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea3 - 2019.10.30 at 22h 41m 41s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CandyTest - 2019.10.28 at 23h 27m 36s.xml">
-      <configuration name="CandyTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea3 - 2019.10.30 at 22h 50m 17s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest - 2019.10.29 at 22h 31m 19s.xml">
-      <configuration name="TrappingRainWaterTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2019.10.30 at 22h 59m 45s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest - 2019.10.29 at 22h 31m 54s.xml">
-      <configuration name="TrappingRainWaterTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2019.10.30 at 23h 00m 59s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest - 2019.10.29 at 22h 32m 38s.xml">
-      <configuration name="TrappingRainWaterTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea4 - 2019.10.30 at 23h 01m 46s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest_testTrappingWater1 - 2019.10.29 at 22h 33m 03s.xml">
-      <configuration name="TrappingRainWaterTest.testTrappingWater1" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2019.10.30 at 23h 23m 00s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest - 2019.10.29 at 22h 44m 54s.xml">
-      <configuration name="TrappingRainWaterTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest - 2019.10.30 at 23h 23m 20s.xml">
+      <configuration name="LargestRectangleInHistogramTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrappingRainWaterTest - 2019.10.29 at 22h 45m 10s.xml">
-      <configuration name="TrappingRainWaterTest" configurationId="JUnit" />
+    <history-entry file="LargestRectangleInHistogramTest_largestRectangleArea1 - 2019.10.30 at 23h 34m 01s.xml">
+      <configuration name="LargestRectangleInHistogramTest.largestRectangleArea1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-266" y="-1057" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17199148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.171459" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -397,16 +392,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15958549" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.55828875" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3564767" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4238342" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="CheckStyle" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.16062176" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32953367" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.14818653" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Build" order="11" weight="0.26631016" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.39274612" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -427,8 +422,23 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/LargestRectangleInHistogram.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>stack.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/BinarySearch/SearchInsertPosition.java" />
@@ -469,13 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/CandyTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/TrappingRainWater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="645">
+          <caret line="43" column="38" lean-forward="true" selection-start-line="43" selection-start-column="38" selection-end-line="43" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -489,10 +496,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/Array_String/TrappingRainWater.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgramCreek/Array_String/CandyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        <state relative-caret-position="210">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ProgramCreek/Stack/LargestRectangleInHistogramTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ProgramCreek/Stack/LargestRectangleInHistogram.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#1081#1090#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
