@@ -8,6 +8,8 @@
 
 #Idea
 *.idea
+.idea/workspace.xml
+
 
 # Log file
 *.log
@@ -15,7 +17,7 @@
 # BlueJ files
 *.ctxt
 
-# Mobile Tools for Java (J2ME)
+# Mobile Tools for Java (J2ME)git
 .mtj.tmp/
 
 # Package Files #
