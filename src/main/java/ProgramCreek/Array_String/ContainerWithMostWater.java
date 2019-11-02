@@ -17,7 +17,7 @@ public class ContainerWithMostWater {
             int w = right - left;
             max = Math.max(max, h * w);
 
-            if (left < right) {
+            if (height[left] < height[right]) {
                 left++;
             } else {
                 right--;
@@ -25,5 +25,4 @@ public class ContainerWithMostWater {
         }
         return max;
     }
-
 }

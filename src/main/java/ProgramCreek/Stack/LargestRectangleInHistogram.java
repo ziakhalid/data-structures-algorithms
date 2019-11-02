@@ -57,7 +57,6 @@ public class LargestRectangleInHistogram {
                         * (stack.isEmpty() ? i : i - stack.peek() - 1));
             }
         }
-
         return max;
     }
 }

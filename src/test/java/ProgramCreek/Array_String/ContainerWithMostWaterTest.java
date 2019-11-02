@@ -36,4 +36,11 @@ public class ContainerWithMostWaterTest {
         assertEquals(expected, containerWithMostWater.maxArea(input));
     }
 
+    @Test
+    public void containerWithMostWater3() {
+        int[] input = {2,3,4,5,18,17,6};
+        int expected = 17;
+        assertEquals(expected, containerWithMostWater.maxArea(input));
+    }
+
 }
