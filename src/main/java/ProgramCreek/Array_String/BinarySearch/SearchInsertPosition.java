@@ -1,4 +1,4 @@
-package ProgramCreek.Array_String;
+package ProgramCreek.Array_String.BinarySearch;
 
 //        [1,3,5,6], 5 -> 2
 //        [1,3,5,6], 2 -> 1

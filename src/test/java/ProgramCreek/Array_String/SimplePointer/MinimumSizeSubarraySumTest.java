@@ -1,5 +1,6 @@
-package ProgramCreek.Array_String;
+package ProgramCreek.Array_String.SimplePointer;
 
+import ProgramCreek.Array_String.SimplePointer.MinimumSizeSubarraySum;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

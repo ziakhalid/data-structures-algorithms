@@ -1,4 +1,4 @@
-package ProgramCreek.Array_String;
+package ProgramCreek.Array_String.BinarySearch;
 
 public class FirstBadVersion {
 
