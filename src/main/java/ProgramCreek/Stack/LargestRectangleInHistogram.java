@@ -5,10 +5,10 @@ import java.util.Stack;
 public class LargestRectangleInHistogram {
 
     public int largestRectangleArea(int[] heights){
-        return largestRectangleAreaSolution2(heights);
+        return largestRectangleAreaSolution1(heights);
     }
 
-    private int largestRectangleAreaSolution1(int[] heights) {
+    public int largestRectangleAreaSolution1(int[] heights) {
         if (heights == null || heights.length < 1) {
             return 0;
         }
@@ -38,7 +38,7 @@ public class LargestRectangleInHistogram {
         return max;
     }
 
-    private int largestRectangleAreaSolution2(int[] height) {
+   /* private int largestRectangleAreaSolution2(int[] height) {
         Stack<Integer> stack = new Stack<Integer>();
 
         if (height == null || height.length < 1) {
@@ -58,5 +58,5 @@ public class LargestRectangleInHistogram {
             }
         }
         return max;
-    }
+    }*/
 }

@@ -1,7 +1,6 @@
 package ProgramCreek.Array_String.BinarySearch;
 
 
-import ProgramCreek.Array_String.BinarySearch.FirstBadVersion;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
