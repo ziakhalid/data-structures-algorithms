@@ -81,7 +81,7 @@ public class Switch {
             "Range Addition",
             "Merge k sorted arrays",
             "Merge k Sorted Lists",
-            "Rearrange String k Distance Apart"
+            "Rearrange String k Distance Apart",
             "Minimum Cost to Hire K Workers",
             "Contains Duplicate: I, II, III",
             "Max Sum of Rectangle No Larger Than K",
